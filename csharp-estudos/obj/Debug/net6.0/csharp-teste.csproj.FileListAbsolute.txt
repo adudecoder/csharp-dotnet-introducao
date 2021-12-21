@@ -1,0 +1,15 @@
+C:\Users\vitor\Desktop\teste\csharp-teste\bin\Debug\net6.0\csharp-teste.exe
+C:\Users\vitor\Desktop\teste\csharp-teste\bin\Debug\net6.0\csharp-teste.deps.json
+C:\Users\vitor\Desktop\teste\csharp-teste\bin\Debug\net6.0\csharp-teste.runtimeconfig.json
+C:\Users\vitor\Desktop\teste\csharp-teste\bin\Debug\net6.0\csharp-teste.dll
+C:\Users\vitor\Desktop\teste\csharp-teste\bin\Debug\net6.0\ref\csharp-teste.dll
+C:\Users\vitor\Desktop\teste\csharp-teste\bin\Debug\net6.0\csharp-teste.pdb
+C:\Users\vitor\Desktop\teste\csharp-teste\obj\Debug\net6.0\csharp-teste.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\teste\csharp-teste\obj\Debug\net6.0\csharp-teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\teste\csharp-teste\obj\Debug\net6.0\csharp-teste.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\teste\csharp-teste\obj\Debug\net6.0\csharp-teste.AssemblyInfo.cs
+C:\Users\vitor\Desktop\teste\csharp-teste\obj\Debug\net6.0\csharp-teste.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\teste\csharp-teste\obj\Debug\net6.0\csharp-teste.dll
+C:\Users\vitor\Desktop\teste\csharp-teste\obj\Debug\net6.0\ref\csharp-teste.dll
+C:\Users\vitor\Desktop\teste\csharp-teste\obj\Debug\net6.0\csharp-teste.pdb
+C:\Users\vitor\Desktop\teste\csharp-teste\obj\Debug\net6.0\csharp-teste.genruntimeconfig.cache

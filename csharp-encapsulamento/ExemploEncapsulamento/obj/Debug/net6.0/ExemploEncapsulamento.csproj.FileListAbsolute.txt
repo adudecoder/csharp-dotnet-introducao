@@ -1,0 +1,15 @@
+C:\Users\vitor\Desktop\teste\csharp-introducao\csharp-encapsulamento\ExemploEncapsulamento\bin\Debug\net6.0\ExemploEncapsulamento.exe
+C:\Users\vitor\Desktop\teste\csharp-introducao\csharp-encapsulamento\ExemploEncapsulamento\bin\Debug\net6.0\ExemploEncapsulamento.deps.json
+C:\Users\vitor\Desktop\teste\csharp-introducao\csharp-encapsulamento\ExemploEncapsulamento\bin\Debug\net6.0\ExemploEncapsulamento.runtimeconfig.json
+C:\Users\vitor\Desktop\teste\csharp-introducao\csharp-encapsulamento\ExemploEncapsulamento\bin\Debug\net6.0\ExemploEncapsulamento.dll
+C:\Users\vitor\Desktop\teste\csharp-introducao\csharp-encapsulamento\ExemploEncapsulamento\bin\Debug\net6.0\ref\ExemploEncapsulamento.dll
+C:\Users\vitor\Desktop\teste\csharp-introducao\csharp-encapsulamento\ExemploEncapsulamento\bin\Debug\net6.0\ExemploEncapsulamento.pdb
+C:\Users\vitor\Desktop\teste\csharp-introducao\csharp-encapsulamento\ExemploEncapsulamento\obj\Debug\net6.0\ExemploEncapsulamento.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\teste\csharp-introducao\csharp-encapsulamento\ExemploEncapsulamento\obj\Debug\net6.0\ExemploEncapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\teste\csharp-introducao\csharp-encapsulamento\ExemploEncapsulamento\obj\Debug\net6.0\ExemploEncapsulamento.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\teste\csharp-introducao\csharp-encapsulamento\ExemploEncapsulamento\obj\Debug\net6.0\ExemploEncapsulamento.AssemblyInfo.cs
+C:\Users\vitor\Desktop\teste\csharp-introducao\csharp-encapsulamento\ExemploEncapsulamento\obj\Debug\net6.0\ExemploEncapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\teste\csharp-introducao\csharp-encapsulamento\ExemploEncapsulamento\obj\Debug\net6.0\ExemploEncapsulamento.dll
+C:\Users\vitor\Desktop\teste\csharp-introducao\csharp-encapsulamento\ExemploEncapsulamento\obj\Debug\net6.0\ref\ExemploEncapsulamento.dll
+C:\Users\vitor\Desktop\teste\csharp-introducao\csharp-encapsulamento\ExemploEncapsulamento\obj\Debug\net6.0\ExemploEncapsulamento.pdb
+C:\Users\vitor\Desktop\teste\csharp-introducao\csharp-encapsulamento\ExemploEncapsulamento\obj\Debug\net6.0\ExemploEncapsulamento.genruntimeconfig.cache

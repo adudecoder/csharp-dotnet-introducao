@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\vitor\\Desktop\\teste\\csharp-introducao\\csharp-poo\\ExemploPOO\\ExemploPOO.csproj": {}
+    "C:\\Users\\vitor\\Desktop\\teste\\csharp-introducao\\csharp-encapsulamento\\ExemploEncapsulamento\\ExemploEncapsulamento.csproj": {}
   },
   "projects": {
-    "c:\\Users\\vitor\\Desktop\\teste\\csharp-introducao\\csharp-poo\\ExemploPOO\\ExemploPOO.csproj": {
+    "C:\\Users\\vitor\\Desktop\\teste\\csharp-introducao\\csharp-encapsulamento\\ExemploEncapsulamento\\ExemploEncapsulamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\vitor\\Desktop\\teste\\csharp-introducao\\csharp-poo\\ExemploPOO\\ExemploPOO.csproj",
-        "projectName": "ExemploPOO",
-        "projectPath": "c:\\Users\\vitor\\Desktop\\teste\\csharp-introducao\\csharp-poo\\ExemploPOO\\ExemploPOO.csproj",
+        "projectUniqueName": "C:\\Users\\vitor\\Desktop\\teste\\csharp-introducao\\csharp-encapsulamento\\ExemploEncapsulamento\\ExemploEncapsulamento.csproj",
+        "projectName": "ExemploEncapsulamento",
+        "projectPath": "C:\\Users\\vitor\\Desktop\\teste\\csharp-introducao\\csharp-encapsulamento\\ExemploEncapsulamento\\ExemploEncapsulamento.csproj",
         "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\vitor\\Desktop\\teste\\csharp-introducao\\csharp-poo\\ExemploPOO\\obj\\",
+        "outputPath": "C:\\Users\\vitor\\Desktop\\teste\\csharp-introducao\\csharp-encapsulamento\\ExemploEncapsulamento\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",

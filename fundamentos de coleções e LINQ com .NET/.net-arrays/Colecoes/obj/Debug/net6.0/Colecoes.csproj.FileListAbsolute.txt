@@ -1,0 +1,15 @@
+C:\Users\vitor\Desktop\teste\csharp-introducao\fundamentos de coleções e LINQ com .NET\.net-arrays\Colecoes\bin\Debug\net6.0\Colecoes.exe
+C:\Users\vitor\Desktop\teste\csharp-introducao\fundamentos de coleções e LINQ com .NET\.net-arrays\Colecoes\bin\Debug\net6.0\Colecoes.deps.json
+C:\Users\vitor\Desktop\teste\csharp-introducao\fundamentos de coleções e LINQ com .NET\.net-arrays\Colecoes\bin\Debug\net6.0\Colecoes.runtimeconfig.json
+C:\Users\vitor\Desktop\teste\csharp-introducao\fundamentos de coleções e LINQ com .NET\.net-arrays\Colecoes\bin\Debug\net6.0\Colecoes.dll
+C:\Users\vitor\Desktop\teste\csharp-introducao\fundamentos de coleções e LINQ com .NET\.net-arrays\Colecoes\bin\Debug\net6.0\ref\Colecoes.dll
+C:\Users\vitor\Desktop\teste\csharp-introducao\fundamentos de coleções e LINQ com .NET\.net-arrays\Colecoes\bin\Debug\net6.0\Colecoes.pdb
+C:\Users\vitor\Desktop\teste\csharp-introducao\fundamentos de coleções e LINQ com .NET\.net-arrays\Colecoes\obj\Debug\net6.0\Colecoes.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\teste\csharp-introducao\fundamentos de coleções e LINQ com .NET\.net-arrays\Colecoes\obj\Debug\net6.0\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\teste\csharp-introducao\fundamentos de coleções e LINQ com .NET\.net-arrays\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\teste\csharp-introducao\fundamentos de coleções e LINQ com .NET\.net-arrays\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfo.cs
+C:\Users\vitor\Desktop\teste\csharp-introducao\fundamentos de coleções e LINQ com .NET\.net-arrays\Colecoes\obj\Debug\net6.0\Colecoes.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\teste\csharp-introducao\fundamentos de coleções e LINQ com .NET\.net-arrays\Colecoes\obj\Debug\net6.0\Colecoes.dll
+C:\Users\vitor\Desktop\teste\csharp-introducao\fundamentos de coleções e LINQ com .NET\.net-arrays\Colecoes\obj\Debug\net6.0\ref\Colecoes.dll
+C:\Users\vitor\Desktop\teste\csharp-introducao\fundamentos de coleções e LINQ com .NET\.net-arrays\Colecoes\obj\Debug\net6.0\Colecoes.pdb
+C:\Users\vitor\Desktop\teste\csharp-introducao\fundamentos de coleções e LINQ com .NET\.net-arrays\Colecoes\obj\Debug\net6.0\Colecoes.genruntimeconfig.cache
